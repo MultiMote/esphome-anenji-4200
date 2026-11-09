@@ -1180,6 +1180,7 @@ number:
     entity_category: config
     icon: mdi:timer
 
+button:
   - platform: template
     name: "${name} exit fault state"
     icon: mdi:restore
